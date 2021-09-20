@@ -2,3 +2,8 @@
     height: 480px;
     object-fit: cover;
 }
+
+.caixa-avatar{
+    margin: 15px;
+    width: 18rem;
+}
