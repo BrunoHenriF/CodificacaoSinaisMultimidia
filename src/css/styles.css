@@ -1,3 +1,7 @@
+.img-ufabc{
+    object-position: 0 -9px;
+}
+
 .img-carousel {
     height: 480px;
     object-fit: cover;
@@ -36,4 +40,5 @@ div.titulo {
 div.subtitulo {
     text-align: center;
     font-size: 150%;
+    margin: 10px;
 }
