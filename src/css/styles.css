@@ -26,3 +26,14 @@
     overflow: hidden;
     margin-top: -6px;
 }
+
+div.titulo {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 250%;
+}
+
+div.subtitulo {
+    text-align: center;
+    font-size: 150%;
+}
