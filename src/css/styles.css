@@ -2,6 +2,10 @@
     object-position: 0 -9px;
 }
 
+.gif-carousel {
+    object-position: 0 -144px;
+}
+
 .img-carousel {
     height: 480px;
     object-fit: cover;
